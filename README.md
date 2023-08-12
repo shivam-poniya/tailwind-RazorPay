@@ -1,7 +1,6 @@
-Tailwind-RazorPay Frontend Project
-Project Demo
+Tailwind-RazorPay
 
-Welcome to the Tailwind-RazorPay Frontend Project repository! This project showcases a frontend web application built using the Tailwind CSS framework. The project includes integration with the RazorPay payment gateway for a seamless checkout experience. The deployed project can be accessed through this link: View Demo.
+Welcome to the Tailwind-RazorPay Frontend Project repository! This project showcases a frontend web application built using the Tailwind CSS framework. The project includes integration with the RazorPay payment gateway for a seamless checkout experience. The deployed project can be accessed through this link: https://steady-sopapillas-3c2ba4.netlify.app
 
 Table of Contents
 Introduction
